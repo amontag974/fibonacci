@@ -7,4 +7,5 @@ def fibs(num)
         x = x + y
         y = array[a]
     end
+    array
 end
